@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6BA7EFEB-E6BA-4C97-B002-3FA58A2B6102}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Veiculo.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Views/Home/Index.cshtml" />
+      <File FileName="Models/Veiculo.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mf-backend" expanded="True">
+            <Node name="mf-backend" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Veiculo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mf-backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
