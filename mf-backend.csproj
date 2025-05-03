@@ -16,4 +16,10 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.36" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.36" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Veiculos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Veiculos\" />
+  </ItemGroup>
 </Project>
